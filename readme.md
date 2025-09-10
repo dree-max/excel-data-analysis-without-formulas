@@ -36,7 +36,7 @@ Are you spending hours every month building Excel reports full of repetitive for
    ```
 
 2. **Open the sample dataset**
-   - Open `sample-data/sales-dataset.xlsx` in Excel
+   - Open `excelpoints.xlsx` in Excel
    - Follow the step-by-step guide below
 
 3. **Build your first formula-free report**
