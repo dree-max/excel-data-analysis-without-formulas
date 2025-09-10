@@ -8,7 +8,7 @@
 
 🚀 **Save hours every month** by replacing hundreds of Excel formulas with a single dynamic PivotTable.
 
-![Demo Preview](assets/demo-preview.png) <!-- Add screenshot here -->
+![Preview](screenshots\4.png) <!-- Add screenshot here -->
 
 ## 🌟 Why This Matters
 
@@ -138,22 +138,6 @@ This approach transforms your data analysis workflow:
 | ❌ Formulas break with data changes | ✅ Reports auto-update |
 | ❌ Complex maintenance | ✅ Set once, use forever |
 
-## 📁 Repository Structure
-
-```
-excel-data-analysis-without-formulas/
-├── sample-data/
-│   ├── sales-dataset.xlsx          # Sample dataset
-│   └── completed-analysis.xlsx     # Finished example
-├── documentation/
-│   ├── step-by-step-guide.md      # Detailed walkthrough
-│   └── troubleshooting.md         # Common issues & solutions
-├── assets/
-│   └── demo-preview.png           # Screenshots
-├── CONTRIBUTING.md                 # Contribution guidelines
-├── LICENSE                        # MIT License
-└── README.md                      # This file
-```
 
 ## 🤝 Contributing
 
