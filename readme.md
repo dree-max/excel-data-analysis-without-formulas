@@ -8,7 +8,7 @@
 
 🚀 **Save hours every month** by replacing hundreds of Excel formulas with a single dynamic PivotTable.
 
-![Preview](screenshots\4.png) <!-- Add screenshot here -->
+![Preview](screenshots/4.png) <!-- Add screenshot here -->
 
 ## 🌟 Why This Matters
 
